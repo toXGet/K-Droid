@@ -3,4 +3,4 @@
 
 #### Equipo 1 Grupo 18 Ciclo 4B - Desarrollo de Aplicaciones Móviles
 
-## UCaldas - Mision TIC 2022
+## UCaldas - Misin TIC 2022

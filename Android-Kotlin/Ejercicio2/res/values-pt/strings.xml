@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btnPlay">Jogar</string>
+    <string name="btnProfile">Perfil</string>
+    <string name="btnSettings">Definições</string>
+    <string name="btnAbout">Cerca de</string>
+</resources>

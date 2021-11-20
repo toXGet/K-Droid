@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RetoDos</string>
+    <string name="btnPlay">Play</string>
+    <string name="btnProfile">Profile</string>
+    <string name="btnSettings">Settings</string>
+    <string name="btnAbout">About</string>
+</resources>

@@ -7,7 +7,7 @@ un proyecto simple de EmptyActivity es subido también. Al generar un nuevo proy
 vacía y cambiar/añadir los archivos se puede reconstruír o generar el proyecto para poder compilarlo y correrlo en el emulador.    
 NOTA: Verificar el AndroidManifest.xml y hacer los cambios acordes para poder correrlo (Nombre del proyecto, verificar las actividades, etc.)
 ## Lista de Ejercicios:
-### 1. Layouts verticales y horizontales
+### 1. [Layouts verticales y horizontales](https://github.com/toXGet/K-Droid/tree/main/Android-Kotlin/Ejercicio1 "Nombre del proyecto: RetoUno")
 Ejercicio de diferentes tipos de layout para una misma actividad.    
 Los Layouts para diferentes tipos de dispositivos en formato vertical y horizontal.
 ### 2. Localización y manejo de imagenes de diferentes resoluciones

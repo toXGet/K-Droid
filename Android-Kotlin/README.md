@@ -10,7 +10,7 @@ NOTA: Verificar el AndroidManifest.xml y hacer los cambios acordes para poder co
 ### 1. [Layouts verticales y horizontales](https://github.com/toXGet/K-Droid/tree/main/Android-Kotlin/Ejercicio1 "Nombre del proyecto: RetoUno")
 Ejercicio de diferentes tipos de layout para una misma actividad.    
 Los Layouts para diferentes tipos de dispositivos en formato vertical y horizontal.
-### 2. Localización y manejo de imagenes de diferentes resoluciones
+### 2. [Localización y manejo de imagenes de diferentes resoluciones](https://github.com/toXGet/K-Droid/tree/main/Android-Kotlin/Ejercicio2 "Nombre del proyecto: RetoDos")
 La localización de la actividad anterior en tres idiomas (inglés, español, portugués), y el manejo de una misma 
 imagen en diferentes resoluciones para su presentación en distintos dispositivos.
 ### 3. Manejo basico de Intents

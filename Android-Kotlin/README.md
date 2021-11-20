@@ -1,9 +1,11 @@
 # Ejercicios sobre Elementos de Programación
 Ejercicios de programación para apps de Android en Kotlin y XML.    
-No son los proyectos completos del Android Studio, se debe comprender cómo funcionan los proyectos en el IDE 
-para poder reconstruír los ejercicios en su propia máquina. Los archivos que son cambiados junto con directorios
-creados son los añadidos a un proyecto simple de Hello World. Al generar un nuevo proyecto con una actividad
-vacía y cambiar/añadir los archivos se reconstruye efectivamente el proyecto y puede ser corrido en el emulador.
+No es el contenido completo de un proyecto típico de Android Studio, se debe comprender cómo funcionan los proyectos en el IDE 
+para poder reconstruír los ejercicios en su propia máquina. Los contenidos de la carpeta main de cada proyecto
+son los que estan subidos (Ejemplo: nombre_del_proyecto/app/src/**main**), si algun otro archivo fuera de dicha carpeta es también editado o cambiado respecto a
+un proyecto simple de EmptyActivity es subido también. Al generar un nuevo proyecto con una actividad
+vacía y cambiar/añadir los archivos se puede reconstruír o generar el proyecto para poder compilarlo y correrlo en el emulador.    
+NOTA: Verificar el AndroidManifest.xml y hacer los cambios acordes para poder correrlo (Nombre del proyecto, verificar las actividades, etc.)
 ## Lista de Ejercicios:
 ### 1. Layouts verticales y horizontales
 Ejercicio de diferentes tipos de layout para una misma actividad.    

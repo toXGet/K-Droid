@@ -1,0 +1,3 @@
+[submodule "TuSabes"]
+	path = TuSabes
+	url = https://github.com/toXGet/TuSabes

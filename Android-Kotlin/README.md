@@ -17,18 +17,18 @@ imagen en diferentes resoluciones para su presentación en distintos dispositivo
 Creación de intents y cómo mandar datos con éstos, es una aplicación de notas de cursos con un cálculo sobre estas
 para generar un promedio básico.
 ### 4. [Ejercicios de Login Screen Básicos](https://github.com/toXGet/K-Droid/tree/main/Android-Kotlin/Ejercicio4 "Nombre del proyecto: LoginScreenExercices")
-Creación de una Pantalla de login básica
+Creación de una Pantalla de login básica. Los datos están quemados (hardcoded) en el activity, comprueba que el nombre de usuario esté en la app. No tiene validación de contraseña como tal.
 ### 5. [Login Screen Con Validación de Campos](https://github.com/toXGet/K-Droid/tree/main/Android-Kotlin/Ejercicio5 "Nombre del proyecto: LoginValidarCampos")
-La pantalla de login con la validación de los datos ingresados, manejo de Data Class en Kotlin, validación mediante comparación de RegEx
+La pantalla de login con la validación de los datos ingresados, manejo de Data Class en Kotlin, validación de la contraseña mediante comparación de RegEx, se comprueba mediante la dinámica de Pattern == Matcher
 ### 6. Ejercicios de NavBar
 Nav Bar
 ### 7. Fragmentos
 Nav Bar
 ### 8. Cajon de Navegación
 Nav Bar
-### 9. Ejercicios de NavBar
+### 9. RecyclerView
 Nav Bar
-### 10. Ejercicios de NavBar
+### 10. ROOM
 Nav Bar
-### 11. Ejercicios de NavBar
+### 11. Firebase
 Nav Bar

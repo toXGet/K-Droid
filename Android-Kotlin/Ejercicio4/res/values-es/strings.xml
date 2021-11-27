@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercicios de Pantalla de Inicio</string>
+    <string name="userName">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="hintUser">Escriba su correo</string>
+    <string name="hintpassword">Escriba su clave</string>
+    <string name="greeting">Bienvenido...</string>
+    <string name="back">Regresar</string>
+</resources>

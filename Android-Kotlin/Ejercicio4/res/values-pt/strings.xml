@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercícios de tela de login</string>
+    <string name="userName">Nome do usuário</string>
+    <string name="password">Senha</string>
+    <string name="login">Conecte-se</string>
+    <string name="hintUser">Escreva seu email</string>
+    <string name="hintpassword">Coloque sua senha</string>
+    <string name="greeting">Receber...</string>
+    <string name="back">Retorna</string>
+</resources>

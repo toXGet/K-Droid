@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login Screen Exercices</string>
+    <string name="userName">User</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="hintUser">Write your email</string>
+    <string name="hintpassword">Write your password</string>
+    <string name="greeting">Welcome...</string>
+    <string name="back">Return</string>
+</resources>

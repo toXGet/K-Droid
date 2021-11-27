@@ -16,7 +16,19 @@ imagen en diferentes resoluciones para su presentación en distintos dispositivo
 ### 3. [Manejo basico de Intents](https://github.com/toXGet/K-Droid/tree/main/Android-Kotlin/Ejercicio3 "Nombre del proyecto: Notas")
 Creación de intents y cómo mandar datos con éstos, es una aplicación de notas de cursos con un cálculo sobre estas
 para generar un promedio básico.
-### 4. Ejercicios de Login Screen Básicos
+### 4. [Ejercicios de Login Screen Básicos](https://github.com/toXGet/K-Droid/tree/main/Android-Kotlin/Ejercicio4 "Nombre del proyecto: LoginScreenExercices")
 Creación de una Pantalla de login básica
-### 5. Ejercicios de NavBar
+### 5. [Login Screen Con Validación de Campos](https://github.com/toXGet/K-Droid/tree/main/Android-Kotlin/Ejercicio5 "Nombre del proyecto: LoginValidarCampos")
+La pantalla de login con la validación de los datos ingresados, manejo de Data Class en Kotlin, validación mediante comparación de RegEx
+### 6. Ejercicios de NavBar
+Nav Bar
+### 7. Fragmentos
+Nav Bar
+### 8. Cajon de Navegación
+Nav Bar
+### 9. Ejercicios de NavBar
+Nav Bar
+### 10. Ejercicios de NavBar
+Nav Bar
+### 11. Ejercicios de NavBar
 Nav Bar

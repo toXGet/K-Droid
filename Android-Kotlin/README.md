@@ -13,8 +13,10 @@ Los Layouts para diferentes tipos de dispositivos en formato vertical y horizont
 ### 2. [Localización y manejo de imagenes de diferentes resoluciones](https://github.com/toXGet/K-Droid/tree/main/Android-Kotlin/Ejercicio2 "Nombre del proyecto: RetoDos")
 La localización de la actividad anterior en tres idiomas (inglés, español, portugués), y el manejo de una misma 
 imagen en diferentes resoluciones para su presentación en distintos dispositivos.
-### 3. Manejo basico de Intents
+### 3. [Manejo basico de Intents](https://github.com/toXGet/K-Droid/tree/main/Android-Kotlin/Ejercicio3 "Nombre del proyecto: Notas")
 Creación de intents y cómo mandar datos con éstos, es una aplicación de notas de cursos con un cálculo sobre estas
 para generar un promedio básico.
 ### 4. Ejercicios de Login Screen Básicos
 Creación de una Pantalla de login básica
+### 5. Ejercicios de NavBar
+Nav Bar

@@ -7,5 +7,5 @@
 
 [Tablero Kanban](https://github.com/toXGet/K-Droid/projects/1 "El tablero Kanban del proyecto Tu Sabes")
 ------------------
-[Proyecto pruebas Saber - TuSabes](https://github.com/toXGet/TuSabes/tree/9adb9e267fc70702f897bc8e307662fa56815e4e "Submodulo en éste repositorio")
+[Proyecto pruebas Saber - TuSabes](https://github.com/toXGet/TuSabes/tree/76422a46a1ef46ebf42838bcac975f93ac967d9e "Submodulo en éste repositorio")
 ------------------
